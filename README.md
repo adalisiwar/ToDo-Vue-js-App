@@ -4,11 +4,12 @@ This is a simple To-Do List application built with Vue.js 3. It allows users to 
 
 ## Features
 
-- Add new tasks
-- Mark tasks as completed with a checkbox
-- Hide/show completed tasks with a toggle
-- Delete tasks
+- ➕ Add new tasks
+- ☑️ Mark tasks as completed with a checkbox
+- 👁️ Hide/show completed tasks with a toggle
+- 🗑️ Delete tasks
 - Simple and clean UI
+- Includes icons for Add and Delete buttons for better UX
 
 ## Screenshot
 
@@ -26,6 +27,7 @@ This is a simple To-Do List application built with Vue.js 3. It allows users to 
 - Vue.js 3 with `<script setup>` syntax
 - Reactive state management with Vue's Composition API
 - Basic CSS styling
+- Inline SVG icons for Add and Delete buttons
 
 ---
 
